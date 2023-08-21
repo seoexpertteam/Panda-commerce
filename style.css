@@ -1,3 +1,37 @@
+.contrainer{
+    margin-bottom: 80px;
+    padding: 5px 50px;
+}
 .backgraound{
     background-color: #fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+
+}
+.price{
+    color: rgb(218, 47, 5);
+}
+.buynow{
+    background-image: linear-gradient(rgb(240, 20, 210));
+}
+.cat1{
+    background-color: blueviolet;
+}
+.cat2{
+    background-color: aqua;
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
 }
